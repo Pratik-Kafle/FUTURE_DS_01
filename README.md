@@ -2,8 +2,8 @@
 ## Introduction
 Retail data is full of stories about customers, products, and performance. 
 During my **Data Science & Analytics internship** at *FutureIntern*, I built this Power BI dashboard 
-to explore Superstore sales data. The dashboard highlights three perspectives—Executive Summary, 
-Product Insight, and Customer Insight—helping stakeholders quickly understand growth trends, 
+to explore Superstore sales data. The dashboard highlights three perspectives that are Executive Summary, 
+Product Insight, and Customer Insight for helping stakeholders quickly understand growth trends, 
 regional performance, and customer behavior.
 
 
